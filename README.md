@@ -1,5 +1,3 @@
-Sentiment analysis can be a useful tool in fraud detection, especially when analyzing user reviews, customer feedback, or transaction comments for anomalies. Here’s a high-level overview of how sentiment analysis can be applied to fraud detection:
-
 ### 1. **Data Collection**
    - **Transaction Data:** Collect data from transactions, including descriptions, comments, or notes.
    - **User Feedback:** Gather feedback or reviews from users about their experiences.
