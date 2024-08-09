@@ -1,3 +1,5 @@
+   The smartphone industry is expanding quickly, there are increasing numbers of mobile applications available in the market every single day. Users have confusion while downloading applications because there are a lot of them on the market. As a result, it's important to monitor and create a system to determine whether or not the apps that are there are authentic .The goal is to create a system that uses sentiment analysis and the Naive Bayes algorithm to identify fraudulent apps before users download them. Therefore, we are putting forth a system that uses the Naive Bayes algorithm to evaluate the application's data, comments, and three reviews in order to produce results. Consequently, choosing a fraud application will be simple.
+
 ### 1. **Data Collection**
    - **Transaction Data:** Collect data from transactions, including descriptions, comments, or notes.
    - **User Feedback:** Gather feedback or reviews from users about their experiences.
